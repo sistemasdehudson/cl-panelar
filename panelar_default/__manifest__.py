@@ -1,8 +1,8 @@
 {
-    'name': 'citval',
+    'name': 'panelar',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto citval",
+    'summary': "Proyecto panelar",
     'author': 'Sdeh',
     'depends': [
         'base',
@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-citval.git',
+        'https://github.com/sistemasdehudson/cl-panelar.git',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
@@ -56,8 +56,9 @@
         'https://github.com/CybroOdoo/CybroAddons.git',
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
-         ##
-        'https://github.com/sistemasdehudson/sdehposaddons.git',
+        ##        'https://github.com/sistemasdehudson/sdehposaddons.git',
+        'https://github.com/OCA/manufacture.git -b 13.0'
+        'https://github.com/OCA/manufacture-reporting.git -b 13.0'
     ],
 
     'docker-images': [

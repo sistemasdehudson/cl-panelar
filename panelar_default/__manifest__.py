@@ -62,6 +62,8 @@
         'https://github.com/OCA/manufacture-reporting.git -b 13.0',
         'https://github.com/OCA/helpdesk -b 13.0',
 	'https://github.com/OCA/sale-workflow/tree/13.0/sale_order_line_date',
+	'https://github.com/ingadhoc/purchase -b 13.0',
+	'https://github.com/ingadhoc/product -b 13.0',
     ],
 
     'docker-images': [

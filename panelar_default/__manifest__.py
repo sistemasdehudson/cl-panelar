@@ -45,7 +45,7 @@
         'https://github.com/ingadhoc/sale.git',
         'https://github.com/ingadhoc/stock.git',
         'https://github.com/ingadhoc/aeroo_reports.git',
-        'https://github.com/ingadhoc/website.git',
+        'https://github.com/ingadhoc/website.git -b 13.0',
         'https://github.com/OCA/account-financial-reporting.git',
         'https://github.com/OCA/reporting-engine.git',
         'https://github.com/OCA/server-ux.git',
@@ -64,6 +64,9 @@
 	'https://github.com/OCA/sale-workflow -b 13.0',
 	'https://github.com/ingadhoc/purchase -b 13.0',
 	'https://github.com/ingadhoc/product -b 13.0',
+	'https://github.com/OCA/purchase-workflow -b 13.0',
+	'https://github.com/OCA/project-reporting -b 13.0',
+	'https://github.com/OCA/project -b 13.0',
     ],
 
     'docker-images': [

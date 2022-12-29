@@ -67,6 +67,8 @@
 	'https://github.com/OCA/purchase-workflow -b 13.0',
 	'https://github.com/OCA/project-reporting -b 13.0',
 	'https://github.com/OCA/project -b 13.0',
+	 ##modulos stock para remito
+        'https://github.com/OCA/stock-logistics-workflow.git -b 13.0',
     ],
 
     'docker-images': [
